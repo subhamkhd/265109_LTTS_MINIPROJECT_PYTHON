@@ -5,7 +5,7 @@
 This Project is About Captcha Generate system.
 we can Enter any 8 Digit Number as REGISTRATION NUMBER.
 
-# HOW TO USE ?
+# HOW TO RUN ?
 
 Step 1:- Open Implementation Folder 
 
